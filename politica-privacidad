@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Téngase Presente - Inteligencia Artificial</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <h1><a href="index.html" class="brand">Téngase Presente</a></h1>
+  <nav>
+    <ul>
+      <li><a href="index.html">Inicio</a></li>
+      <li><a href="noticias.html">Noticias</a></li>
+      <li><a href="ia.html">Inteligencia Artificial</a></li>
+      <li><a href="ciencia-de-datos.html">Ciencia de Datos</a></li>
+      <li><a href="divulgacion.html">Divulgación</a></li>
+      <li><a href="blog.html">Blog</a></li>
+      <li><a href="recursos.html">Recursos</a></li>
+      <li><a href="sobre-nosotros.html">Sobre Nosotros</a></li>
+      <li><a href="contacto.html">Contacto</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main>
+  <section class="container">
+    <img src="imagen/portadaTP.png" alt="Familia" style="max-width:100%;height:auto;"></li>
+    <h1>Política de Privacidad</h1>
+  <p>
+    En <strong>la n8n</strong> nos comprometemos a proteger la privacidad de tus datos personales.
+    Esta política describe qué información recopilamos, cómo la usamos y tus derechos sobre tus datos.
+  </p>
+  <h2>Información que recopilamos</h2>
+  <ul>
+    <li>Nombre de usuario.</li>
+    <li>Dirección de correo electrónico.</li>
+    <li>Datos de acceso de la app Meta/WhatsApp.</li>
+  </ul>
+  <h2>Uso de la información</h2>
+  <ul>
+    <li>Para proporcionar y mejorar nuestro servicio.</li>
+    <li>Para contactarte si es necesario.</li>
+    <li>Para cumplir requerimientos legales y regulatorios.</li>
+  </ul>
+  <h2>Compartir datos</h2>
+  <p>
+    No compartimos tus datos personales con terceros sin tu consentimiento, salvo requerimiento legal o para el funcionamiento esencial del servicio.
+  </p>
+  <h2>Eliminación de datos</h2>
+  <p>
+    Puedes solicitar la eliminación de tus datos escribiendo a <a href="mailto:leugimfigueroa@gmail.com">leugimfigueroa@gmail.com</a>.
+  </p>
+  <h2>Contacto</h2>
+  <p>
+    Si tienes preguntas sobre esta política, puedes contactarnos en <a href="mailto:leugimfigueroa@gmail.com">leugimfigueroa@gmail.com</a>.
+  </p>
+  </section>
+</main>
+
+<footer>
+  <p>© 2025 Téngase Presente. Todos los derechos reservados.</p>
+  <p>
+    <a href="#" aria-label="Twitter">Twitter</a> |
+    <a href="#" aria-label="LinkedIn">LinkedIn</a> |
+    <a href="#" aria-label="GitHub">GitHub</a>
+  </p>
+</footer>
+
+<script src="js/chatbot.js"></script>
+</body>
+</html>
